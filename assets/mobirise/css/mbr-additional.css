@@ -2,6 +2,8 @@
 
 
 
+
+
 #msg-box4-13 .mbr-header__text {
   color: #efefef;
 }
@@ -42,6 +44,20 @@
   font-size: 18px;
 }
 #features1-q P {
+  text-align: center;
+}
+#features1-1x .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-1x P {
+  text-align: center;
+}
+#features1-1y .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-1y P {
   text-align: center;
 }
 #form1-6 .mbr-header__text {

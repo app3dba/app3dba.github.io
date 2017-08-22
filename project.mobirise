@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "versionPublish": "4.0.17",
+    "versionPublish": "4.1.7",
     "name": "NewSite-10-01_0019",
     "theme": {
       "name": "default",
@@ -12,7 +12,7 @@
         "#404040"
       ]
     },
-    "uniqCompNum": 69,
+    "uniqCompNum": 71,
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-103194643-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -637,6 +637,356 @@
         },
         {
           "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "SUSPENSIÓN DE CONTRATOS Y DESPIDOS COLECTIVOS",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dessuspreducc200proxim-200x200.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Procedimientos de despido colectivo, suspensión de contratos y reducción de jornada",
+          "caption1": "Real Decreto 1483/2012, de 29 de octubre, por el que se aprueba el Reglamento de los procedimientos de despido colectivo y de suspensión de contratos y reducción de jornada.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/none200-200x200.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "-",
+          "caption2": "-",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/Dani/AppData/Local/Mobirise.com/Mobirise/projectData/reltrab200-200x200.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://play.google.com/store/apps/details?id=com.app3dba.relatrab&hl=es",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Ley Sobre Relaciones de Trabajo",
+          "caption3": "Real Decreto-ley 17/1977, de 4 de marzo",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-1x"
+        },
+        {
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "CONVENIOS COLECTIVOS",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/extconvcolect200-proxim-200x200.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Procedimiento de extensión de convenios colectivos",
+          "caption1": "Real Decreto 718/2005, de 20 de junio, por el que se aprueba el procedimiento de extensión de convenios colectivos.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/none200-200x2002.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "-",
+          "caption2": "-",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/Dani/AppData/Local/Mobirise.com/Mobirise/projectData/reltrab200-200x200_1.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://play.google.com/store/apps/details?id=com.app3dba.relatrab&hl=es",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Ley Sobre Relaciones de Trabajo",
+          "caption3": "Real Decreto-ley 17/1977, de 4 de marzo",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-1y"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -772,7 +1122,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1x\" aria-expanded=\"false\">Suspensión de contratos y despidos colectivos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1y\" aria-expanded=\"false\">Convenios Colectivos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">PROXIMAMENTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1022,7 +1372,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1x\" aria-expanded=\"false\">Suspensión de contratos y despidos colectivos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1y\" aria-expanded=\"false\">Convenios Colectivos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">PROXIMAMENTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1449,7 +1799,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1x\" aria-expanded=\"false\">Suspensión de contratos y despidos colectivos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1y\" aria-expanded=\"false\">Convenios Colectivos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">PROXIMAMENTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1723,7 +2073,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1x\" aria-expanded=\"false\">Suspensión de contratos y despidos colectivos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1y\" aria-expanded=\"false\">Convenios Colectivos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">PROXIMAMENTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1823,7 +2173,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">LEGISLACIÓN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-9\" aria-expanded=\"false\">Derechos y Obligaciones de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-p\" aria-expanded=\"false\">Representación de los Trabajadores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-q\" aria-expanded=\"false\">Prevención de Riesgos Laborales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1x\" aria-expanded=\"false\">Suspensión de contratos y despidos colectivos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1y\" aria-expanded=\"false\">Convenios Colectivos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONVENIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">PROXIMAMENTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">ACERCA DE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"index.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para ANDROID</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"page2.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;para WINDOWS</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1865,7 +2215,7 @@
         {
           "_params": {
             "showHeader": true,
-            "showSubheader": false,
+            "showSubheader": true,
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
@@ -1887,12 +2237,12 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "PROXIMAMENTE",
-          "subheader": "By John Smith posted July 30, 2015",
+          "header": "PRÓXIMAS PUBLICACIONES",
+          "subheader": "Septiembre/Octubre 2017",
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/infoesencontr200-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/dessuspreducc200-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1910,13 +2260,13 @@
               "size": 0
             }
           },
-          "title1": "Información al trabajador sobre los elementos esenciales del contrato&nbsp;",
-          "caption1": "Real Decreto 1659/1998, de 24 de julio, por el que se desarrolla el artículo 8, apartado 5, de la Ley del Estatuto de los Trabajadores en materia de información al trabajador sobre los elementos esenciales del contrato de trabajo.",
+          "title1": "Procedimientos de despido colectivo, suspensión de contratos y reducción de jornada",
+          "caption1": "Real Decreto 1483/2012, de 29 de octubre, por el que se aprueba el Reglamento de los procedimientos de despido colectivo y de suspensión de contratos y reducción de jornada.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ce200-1-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/extconvcolect200-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1934,8 +2284,8 @@
               "size": 0
             }
           },
-          "title2": "Constitución Española",
-          "caption2": "Constitución Española.",
+          "title2": "Procedimiento de extensión de convenios colectivos",
+          "caption2": "Real Decreto 718/2005, de 20 de junio, por el que se aprueba el procedimiento de extensión de convenios colectivos.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
