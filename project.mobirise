@@ -665,10 +665,10 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dessuspreducc200proxim-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/desp-susp-red200-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://play.google.com/store/apps/details?id=com.app3dba.despsuspredu&hl=es",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -864,7 +864,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/none200-200x2002.png",
+              "src": "@PROJECT_PATH@/assets/images/none200-200x2001.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
