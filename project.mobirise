@@ -864,7 +864,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/none200-200x2002.png",
+              "src": "@PROJECT_PATH@/assets/images/none200-200x2003.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2222,7 +2222,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2242,7 +2242,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/none200-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/leyempleo200-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2260,8 +2260,8 @@
               "size": 0
             }
           },
-          "title1": "-",
-          "caption1": "-",
+          "title1": "Ley de Empleo",
+          "caption1": "Real Decreto Legislativo 3/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley de Empleo.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
