@@ -172,6 +172,7 @@
 
 
 
+
 #features1-27 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
   text-align: center;
@@ -214,6 +215,16 @@
   text-align: center;
 }
 #features1-2b P {
+  text-align: center;
+}
+#features1-35 .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-35 .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+}
+#features1-35 P {
   text-align: center;
 }
 #form1-2c .mbr-header__text {
