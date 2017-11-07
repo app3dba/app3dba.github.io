@@ -37,41 +37,6 @@
   color: #ffffff;
 }
 
-#features1-2i .mbr-section-title .mbr-header__text {
-  font-family: 'Roboto', sans-serif;
-  text-align: center;
-}
-#features1-2i .mbr-section__col .mbr-header__text {
-  font-size: 18px;
-}
-#features1-2i P {
-  text-align: center;
-  color: #000000;
-}
-#form1-1i .mbr-header__text {
-  text-align: left;
-}
-#dropdown-menu-2btn-f .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-f .nav .link,
-#dropdown-menu-2btn-f .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-2btn-f .navbar,
-#dropdown-menu-2btn-f .dropdown-menu {
-  background: #404040;
-}
-#dropdown-menu-2btn-f .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-f .dropdown-menu a:hover,
-#dropdown-menu-2btn-f .dropdown-menu a:focus {
-  background: #363636;
-}
-#dropdown-menu-2btn-f .navbar-toggler {
-  color: #ffffff;
-}
-
 #features1-r .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
   text-align: center;
@@ -274,5 +239,88 @@
   background: #363636;
 }
 #dropdown-menu-2btn-2n .navbar-toggler {
+  color: #ffffff;
+}
+
+
+
+
+
+
+#features1-36 .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-36 .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+}
+#features1-36 P {
+  text-align: center;
+}
+#features1-37 .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-37 .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+}
+#features1-37 P {
+  text-align: center;
+}
+#features1-38 .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-38 .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+}
+#features1-38 P {
+  text-align: center;
+}
+#features1-39 .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-39 P {
+  text-align: center;
+}
+#features1-3a .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-3a P {
+  text-align: center;
+}
+#features1-3b .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-3b .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+}
+#features1-3b P {
+  text-align: center;
+}
+#form1-3c .mbr-header__text {
+  text-align: left;
+}
+#dropdown-menu-2btn-3g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3g .nav .link,
+#dropdown-menu-2btn-3g .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-3g .navbar,
+#dropdown-menu-2btn-3g .dropdown-menu {
+  background: #404040;
+}
+#dropdown-menu-2btn-3g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3g .dropdown-menu a:hover,
+#dropdown-menu-2btn-3g .dropdown-menu a:focus {
+  background: #363636;
+}
+#dropdown-menu-2btn-3g .navbar-toggler {
   color: #ffffff;
 }
