@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page8.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.3.2",
     "name": "NewSite-10-01_0019",
@@ -3299,12 +3299,13 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/none200-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/lols200-1-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://www.microsoft.com/es-es/store/p/ccoo-lols/9nv87kjktslb",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
