@@ -3830,12 +3830,13 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/none200-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/empleo200-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://www.microsoft.com/es-es/store/p/ccoo-ley-empleo/9nv29prkrbcx",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -4004,12 +4005,13 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/none200-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/ext-conv-colect200-1-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://www.microsoft.com/es-es/store/p/ccoo-extension-convenios-colectivos/9nftzsd625g8",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
