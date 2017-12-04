@@ -13,6 +13,9 @@
   text-align: left;
   font-size: 20px;
 }
+#features1-21 P {
+  color: #404040;
+}
 #form1-6 .mbr-header__text {
   text-align: left;
 }
@@ -43,6 +46,7 @@
 }
 #features1-r P {
   text-align: center;
+  color: #404040;
 }
 #form1-1h .mbr-header__text {
   text-align: left;
@@ -138,6 +142,7 @@
 
 
 
+
 #features1-27 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
   text-align: center;
@@ -147,6 +152,7 @@
 }
 #features1-27 P {
   text-align: center;
+  color: #404040;
 }
 #features1-28 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
@@ -157,6 +163,7 @@
 }
 #features1-28 P {
   text-align: center;
+  color: #404040;
 }
 #features1-29 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
@@ -167,6 +174,18 @@
 }
 #features1-29 P {
   text-align: center;
+  color: #404040;
+}
+#features1-3r .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-3r .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+}
+#features1-3r P {
+  text-align: center;
+  color: #404040;
 }
 #features1-2a .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
@@ -174,13 +193,7 @@
 }
 #features1-2a P {
   text-align: center;
-}
-#features1-2b .mbr-section-title .mbr-header__text {
-  font-family: 'Roboto', sans-serif;
-  text-align: center;
-}
-#features1-2b P {
-  text-align: center;
+  color: #404040;
 }
 #features1-35 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
@@ -191,6 +204,15 @@
 }
 #features1-35 P {
   text-align: center;
+  color: #404040;
+}
+#features1-2b .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-2b P {
+  text-align: center;
+  color: #404040;
 }
 #form1-2c .mbr-header__text {
   text-align: left;
@@ -247,6 +269,7 @@
 
 
 
+
 #features1-36 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
   text-align: center;
@@ -256,6 +279,7 @@
 }
 #features1-36 P {
   text-align: center;
+  color: #404040;
 }
 #features1-37 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
@@ -266,6 +290,7 @@
 }
 #features1-37 P {
   text-align: center;
+  color: #404040;
 }
 #features1-38 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
@@ -276,6 +301,18 @@
 }
 #features1-38 P {
   text-align: center;
+  color: #404040;
+}
+#features1-3s .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-3s .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+}
+#features1-3s P {
+  text-align: center;
+  color: #404040;
 }
 #features1-39 .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
@@ -283,13 +320,7 @@
 }
 #features1-39 P {
   text-align: center;
-}
-#features1-3a .mbr-section-title .mbr-header__text {
-  font-family: 'Roboto', sans-serif;
-  text-align: center;
-}
-#features1-3a P {
-  text-align: center;
+  color: #404040;
 }
 #features1-3b .mbr-section-title .mbr-header__text {
   font-family: 'Roboto', sans-serif;
@@ -300,6 +331,15 @@
 }
 #features1-3b P {
   text-align: center;
+  color: #404040;
+}
+#features1-3a .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#features1-3a P {
+  text-align: center;
+  color: #404040;
 }
 #form1-3c .mbr-header__text {
   text-align: left;
