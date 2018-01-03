@@ -2142,7 +2142,8 @@
               "width": 600,
               "link": "https://play.google.com/store/apps/details?id=com.app3dba.infoesencont",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
