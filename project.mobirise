@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page6.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.3.2",
     "name": "NewSite-10-01_0019",
@@ -1227,7 +1227,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "4",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1243,7 +1243,7 @@
           },
           "headerAlign": "left",
           "header": "PRÓXIMAS PUBLICACIONES",
-          "subheader": "Diciembre 2017 / Enero 2018",
+          "subheader": "Enero / Febrero 2018",
           "media1": {
             "image": {
               "active": true,
@@ -2137,10 +2137,10 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/infoesencont200proxim-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/infoesencont200-1-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://play.google.com/store/apps/details?id=com.app3dba.infoesencont",
               "alt": "",
               "title": ""
             },
