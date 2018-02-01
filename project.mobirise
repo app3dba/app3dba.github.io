@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.3.2",
     "name": "NewSite-10-01_0019",
@@ -1227,7 +1227,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1270,7 +1270,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/emprtrabtemp200proxim-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/sistfp200proxim-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1287,8 +1287,8 @@
               "size": 0
             }
           },
-          "title2": "Ley por la que se Regulan las Empresas &nbsp;de Trabajo Temporal",
-          "caption2": "Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal.",
+          "title2": "Sistema de Formación Profesional para el Empleo",
+          "caption2": "Real Decreto-ley 4/2015, de 22 de marzo, para la reforma urgente del Sistema de Formación Profesional para el Empleo en el ámbito laboral. ",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -2715,12 +2715,13 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/emprtrabtemp200proxim-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/emprtrabtemp200-200x200.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://play.google.com/store/apps/details?id=com.app3dba.EmprTrabTemp&hl=es",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
